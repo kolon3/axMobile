@@ -1,2 +1,2 @@
 # axMobile
-An open source phone based off of the RK 3568 SoC 
+An open source phone based off of the RK3568 SoC 
