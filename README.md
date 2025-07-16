@@ -1,2 +1,9 @@
-# axMobile
-An open source phone based off of the RK3568 SoC 
+# axMobile Hardware Repo
+
+An open-source mobile phone based on the Rockchip RK3568 SoC.
+
+---
+
+## Features
+
+- mreow
