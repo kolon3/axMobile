@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Rockchip")(type "KiCad")(uri "/Users/bagdoingstuff/projects/axMobile/symbols/RK3568")(options "")(descr ""))
+)
